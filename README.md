@@ -15,10 +15,13 @@ Note: A MacOS computer WITH Xcode INSTALLED is needed to run on iOS
     Click the device dropdown menu and select your target device (e.g., iPhone 15 Pro, iPad, etc.). If you want to test on a physical iOS device, connect it to your Mac, and it should appear in the list.
 
 3. Check Signing and Capabilities
+   
    Click on the file at the top of the hierarchy. In the Signing & Capabilities tab, select a valid Apple Developer account under Team.
 
-5. Build the Project
+4. Build the Project
+   
     Click the Play button to start running. Make sure your iPhone is plugged in.
+   
 # Running it on Godot (Easiest Option)
 NOTE: AR and precise location are NOT available when running on Godot. 
 1. Download the Godot game engine

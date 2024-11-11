@@ -4,9 +4,6 @@
 An app that lets users explore and learn about the different birds around them.
 ### Developed by Khaen Dumbrique
 
-~~# HTML Build
-Running it through HTML has some features removed. Features such as precise location and AR will not be available on the HTML build~~
-
 # iOS
 Note: A MacOS computer WITH Xcode INSTALLED is needed to run on iOS
 1. Download the build.zip in the releases tab and open it in Xcode.
